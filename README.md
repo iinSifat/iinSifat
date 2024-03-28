@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=iinSifat.iinSifat)
 ### Hi there 👋, I am Iffat Ibne Nashir Sifat
 #### A developer in progress
 ![A developer in progress](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/434331524_966039785079780_5185082759366334003_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHGwuHmyj3CIYtCAYgPBAnvJ2lavmJYl4onaVq-YliXiqHEdnv1vyQbygwPusWsUB5y2uJA350vYQqtGcfjf59n&_nc_ohc=pk1JXERdnLUAX8Gfj9h&_nc_ht=scontent.fdac31-1.fna&oh=00_AfAzDjQTdx1YrSrYEUIniDNgU_ffm3sD3xUhx7nuRCHSyQ&oe=660ACAE0)
