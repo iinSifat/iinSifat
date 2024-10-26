@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=iinSifat.iinSifat" alt="visitors">
 </div>
 
-![A developer in progress]([https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/434331524_966039785079780_5185082759366334003_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHGwuHmyj3CIYtCAYgPBAnvJ2lavmJYl4onaVq-YliXiqHEdnv1vyQbygwPusWsUB5y2uJA350vYQqtGcfjf59n&_nc_ohc=pk1JXERdnLUAX8Gfj9h&_nc_ht=scontent.fdac31-1.fna&oh=00_AfAzDjQTdx1YrSrYEUIniDNgU_ffm3sD3xUhx7nuRCHSyQ&oe=660ACAE0](https://media.licdn.com/dms/image/v2/D5603AQFabbKAOaARgg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719207725393?e=1735171200&v=beta&t=mc9eUSwRRscTS-DEZhoklkzDrylmwW_uATSc7Wb3W58))
+![A developer in progress]
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Iffat+Ibne+Nashir+Sifat!;+Nice+to+meet+you" />
 </h1>
