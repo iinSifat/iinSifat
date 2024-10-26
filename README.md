@@ -10,6 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Timesnewroman&size=20&center=true&vCenter=true&width=500&height=40&color=white&lines=A+passionate+learner;+dreaming+to+pursue;+Computer+Science+Engineering+degree(C.S.E)" />
 </h1>
 
+![Uploading Summer October GIF - Summer October Anime - Discover & Share GIFs.gif…]()
 
   
 
