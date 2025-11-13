@@ -85,10 +85,11 @@ I love solving problems, understanding how systems work under the hood, and brin
 <img src="https://github-readme-stats.vercel.app/api?username=iinSifat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=false&border_radius=15&card_width=400" width="400" alt="GitHub Stats"/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iinSifat&layout=compact&theme=radical&hide=TeX&card_width=400&border_radius=15" width="400" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iinSifat&layout=compact&theme=radical&hide=TeX&card_width=400&border_radius=15" width="300" alt="Top Languages"/>
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=iinSifat&theme=radical&hide_border=false&card_width=400&stroke=FF69B4" width="400" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=iinSifat&theme=radical&hide_border=false&card_width=400&stroke=FF69B4" width="300" alt="GitHub Streak"/>
+
 
 </div>
 
