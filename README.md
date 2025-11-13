@@ -1,15 +1,16 @@
 <div align="center">
-<h1 style="color: #0077B5; border-bottom: 3px solid #0077B5; padding-bottom: 5px; display: inline-block;">
-    Iffat Ibne Nashir Sifat
+
+<h1 style="color: #0077B5; border-bottom: 4px solid #0077B5; padding-bottom: 5px; display: inline-block; margin-bottom: 5px; font-size: 2.5em;">
+    **Iffat Ibne Nashir Sifat**
 </h1>
-<h2 style="color: #4A4A4A; margin-top: -10px;">
-    **Aspiring Computer Science Engineer**
+<h2 style="color: #4A4A4A; margin-top: 0; font-size: 1.5em;">
+    *Aspiring Computer Science Engineer*
 </h2>
 
 ---
 
-### 👋 Hello World!
-<p style="max-width: 800px; line-height: 1.6; color: #333;">
+### 👋 Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand Emoji GIF"/>
+<p style="max-width: 800px; line-height: 1.6; color: #333; margin: 15px auto;">
 My journey into the world of Computer Science is a recent and exciting adventure. Just a short while ago, I was navigating new waters, and now I'm fully immersed in the thrill of learning how things work under the hood! I'm passionately diving deep into **C programming**, building a solid foundation in logic and algorithms. My creative side is fueled by mastering **Adobe software** like Illustrator and Photoshop, and I'm ensuring I'm workplace-ready with comprehensive knowledge of **MS Office** applications. Every day is a new opportunity to build, design, and code!
 </p>
 
@@ -49,26 +50,29 @@ My journey into the world of Computer Science is a recent and exciting adventure
 ---
 
 ### 🛠️ My Toolbox
+<div align="center">
+    
 #### **Programming Languages**
-<p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="55" height="55" style="margin: 0 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55" style="margin: 0 10px;"/>
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="55" height="55" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55" style="margin: 0 15px;"/>
 </p>
 
 #### **Software & Tools**
-<p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="55" height="55" style="margin: 0 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="55" height="55" style="margin: 0 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" style="margin: 0 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55" style="margin: 0 10px;"/>
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="55" height="55" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="55" height="55" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55" style="margin: 0 15px;"/>
 </p>
+</div>
 
 ---
 
 ### 💡 Just for Fun!
-<div style="background-color: #FFF3CD; border: 1px solid #FFECB3; padding: 15px; border-radius: 8px; margin: 20px auto; max-width: 600px;">
-    <h4 style="color: #856404; margin: 0; padding-bottom: 5px;">🤯 The Twist</h4>
-    <p style="color: #856404; margin: 0;">A few months before starting my CSE degree, I barely knew how to operate a personal computer. Now, here I am, coding and building! Talk about a crash course in life! 😅</p>
+<div style="background-color: #E6F7FF; border: 2px dashed #91D5FF; padding: 15px; border-radius: 8px; margin: 20px auto; max-width: 650px;">
+    <h4 style="color: #096DD9; margin: 0; padding-bottom: 5px;">🤯 The Unexpected Turn</h4>
+    <p style="color: #096DD9; margin: 0; font-size: 1.1em;">A few months before starting my CSE degree, I barely knew how to operate a personal computer. Now, here I am, coding and building! Talk about a crash course in life! 😅</p>
 </div>
 
 ---
@@ -85,7 +89,7 @@ My journey into the world of Computer Science is a recent and exciting adventure
 ---
 
 ### 🚀 Onward!
-<p align="center" style="font-style: italic; color: #555; padding-top: 15px;">
+<p align="center" style="font-style: italic; color: #555; padding-top: 15px; border-top: 1px solid #eee;">
     **"The only way to learn a new programming language is by writing programs in it."** — *Dennis Ritchie*
     <br/>
     Thanks for stopping by! Let's build something amazing.
