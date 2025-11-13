@@ -63,9 +63,13 @@ Every day is a new opportunity to **build, design, and code!**
 ---
 
 ### 🌐 Let's Connect!
+### 🌐 Let's Connect!
 <p align="center">
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iinSifat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/iinsifat//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Hippocratic2019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iffat_ibne_nashir_sifat/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@iffatibnenashirsifat2078)  
-
+ [<img src='https://cdn.simpleicons.org/github/000000' alt='github' height='40'>](https://github.com/iinSifat)  
+[<img src='https://cdn.simpleicons.org/linkedin/0A66C2' alt='linkedin' height='40'>](https://www.linkedin.com/in/iinsifat/)  
+[<img src='https://cdn.simpleicons.org/facebook/1877F2' alt='facebook' height='40'>](https://www.facebook.com/Hippocratic2019)  
+[<img src='https://cdn.simpleicons.org/instagram/E4405F' alt='instagram' height='40'>](https://www.instagram.com/iffat_ibne_nashir_sifat/)  
+[<img src='https://cdn.simpleicons.org/youtube/FF0000' alt='YouTube' height='40'>](https://www.youtube.com/channel/@iffatibnenashirsifat2078)
 </p>
 
 ---
