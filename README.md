@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Iffat+Ibne+Nashir+Sifat;Aspiring+Computer+Science+Engineer;Passionate+about+Coding,+Design+%26+Learning!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Iffat+Ibne+Nashir+Sifat!;+Nice+to+meet+you">
 
 ---
 
