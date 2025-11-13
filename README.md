@@ -63,13 +63,23 @@ Every day is a new opportunity to **build, design, and code!**
 ---
 
 ### 🌐 Let's Connect!
-### 🌐 Let's Connect!
+
 <p align="center">
- [<img src='https://cdn.simpleicons.org/github/000000' alt='github' height='40'>](https://github.com/iinSifat)  
-[<img src='https://cdn.simpleicons.org/linkedin/0A66C2' alt='linkedin' height='40'>](https://www.linkedin.com/in/iinsifat/)  
-[<img src='https://cdn.simpleicons.org/facebook/1877F2' alt='facebook' height='40'>](https://www.facebook.com/Hippocratic2019)  
-[<img src='https://cdn.simpleicons.org/instagram/E4405F' alt='instagram' height='40'>](https://www.instagram.com/iffat_ibne_nashir_sifat/)  
-[<img src='https://cdn.simpleicons.org/youtube/FF0000' alt='YouTube' height='40'>](https://www.youtube.com/channel/@iffatibnenashirsifat2078)
+  <a href="https://github.com/iinSifat" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/iinsifat/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.facebook.com/Hippocratic2019" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.instagram.com/iffat_ibne_nashir_sifat/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.youtube.com/@iffatibnenashirsifat2078" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" height="40" style="margin-right: 10px;" />
+  </a>
 </p>
 
 ---
