@@ -38,6 +38,35 @@ I love solving problems, understanding how systems work under the hood, and brin
   
 </details>
 
+---
+
+<h3 align="center">📄 𝐌𝐲 𝐀𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐂𝐕</h3>
+
+<div align="center" style="margin-top: 10px;">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="CV_Sifat.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/View%20CV-2E86C1?style=for-the-badge&logo=readme&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="CV_Sifat.pdf" download>
+        <img src="https://img.shields.io/badge/Download%20CV-1C2833?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center" style="font-size: 14px; color: gray;">
+  Updated: <strong>November 2025</strong> &nbsp;|&nbsp; Format: <strong>PDF</strong>
+</p>
+
+</div>
+
+---
+
 
 
 
