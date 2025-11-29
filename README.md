@@ -135,8 +135,6 @@ I love solving problems, understanding how systems work under the hood, and brin
 
 ---
 
-
 <h4 align="center">📜 𝐈𝐧𝐬𝐩𝐢𝐫𝐚𝐭𝐢𝐨𝐧</h4>
-<img src="https://quotes-github-readme.vercel.app/api?type=default&theme=radical&font=monospace" alt="Inspirational Quote" />
-
+<img src="https://quotes-github-readme.vercel.app/api?type=default&theme=radical&font=monospace&cache_bypass=true" alt="Inspirational Quote" />
 </div>
