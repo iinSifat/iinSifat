@@ -79,6 +79,8 @@ I love solving problems, understanding how systems work under the hood, and brin
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="MS Office"/>
 </div>
 
+
+
 ---
 <h4 align="center">📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐚𝐧𝐝 𝐒𝐭𝐚𝐭𝐬</h4>
 
@@ -90,6 +92,10 @@ I love solving problems, understanding how systems work under the hood, and brin
 
 
 <img src="https://streak-stats.demolab.com?user=iinSifat&theme=radical&hide_border=false&card_width=400&stroke=FF69B4" width="300" alt="GitHub Streak"/>
+<img src="https://github-readme-stats-steel-two-51.vercel.app/api/pin?username=iinSifat&repo=AOOP&theme=radical" width="400" alt="Custom Repo Pin"/>
+
+
+
 
 </div>
 
@@ -117,6 +123,10 @@ I love solving problems, understanding how systems work under the hood, and brin
   <a href="https://www.youtube.com/@iffatibnenashirsifat2078" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin: 5px;"/>
   </a>
+  <a href="mailto:iffatibnenashirsifat@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+
     
 </p>
 
