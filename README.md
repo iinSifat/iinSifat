@@ -136,9 +136,7 @@ I love solving problems, understanding how systems work under the hood, and brin
 ---
 
 
-<p align="center">
-  <em>"The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie</em>  
-  <br/>   
-</p>
+<h4 align="center">📜 𝐈𝐧𝐬𝐩𝐢𝐫𝐚𝐭𝐢𝐨𝐧</h4>
+<img src="https://quotes-github-readme.vercel.app/api?type=default&theme=radical&font=monospace" alt="Inspirational Quote" />
 
 </div>
