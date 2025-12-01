@@ -90,11 +90,10 @@ I love solving problems, understanding how systems work under the hood, and brin
 
 <img src="https://github-readme-stats-steel-two-51.vercel.app/api/top-langs/?username=iinSifat&layout=compact&theme=radical&hide=TeX&card_width=400&border_radius=15&cache_seconds=0" width="300" alt="Top Languages"/>
 
-
-<img src="https://streak-stats.demolab.com?user=iinSifat&theme=radical&hide_border=false&card_width=400&stroke=FF69B4" width="300" alt="GitHub Streak"/>
-<img src="https://github-readme-stats-steel-two-51.vercel.app/api/pin?username=iinSifat&repo=AOOP&theme=radical" width="400" alt="Custom Repo Pin"/>
+<!--<img src="https://github-readme-stats-steel-two-51.vercel.app/api/pin?username=iinSifat&repo=AOOP&theme=radical" width="400" alt="Custom Repo Pin"/>-->
 
 
+<img src="https://streak-stats.demolab.com?user=iinSifat&theme=radical&border_radius=15&cache_seconds=86400"/>
 
 
 </div>
